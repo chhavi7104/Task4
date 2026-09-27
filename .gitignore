@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+.pytest_cache/
+
+# Environment
+.env
+
+# Crawl output
+exports/
+logs/
+*.db
+
+# OS
+.DS_Store

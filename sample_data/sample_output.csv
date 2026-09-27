@@ -1,0 +1,7 @@
+url,status_code,title,meta_description,meta_keywords,depth,word_count,num_headings,num_paragraphs,num_links,num_internal_links,num_external_links,num_images,fetched_at,error
+https://pypi.org,200,PyPI · The Python Package Index,The Python Package Index (PyPI) is a repository of software for the Python programming language.,,0,106,5,11,44,11,33,16,2026-09-27T15:31:12.794902+00:00,
+https://pypi.org/,200,PyPI · The Python Package Index,The Python Package Index (PyPI) is a repository of software for the Python programming language.,,1,106,5,11,44,11,33,16,2026-09-27T15:31:13.845360+00:00,
+https://pypi.org/help/,200,Help · PyPI,The Python Package Index (PyPI) is a repository of software for the Python programming language.,,1,4363,75,151,123,17,106,15,2026-09-27T15:31:13.869219+00:00,
+https://pypi.org/search/,200,Client Challenge,,,1,7,0,1,0,0,0,1,2026-09-27T15:31:13.885174+00:00,
+https://pypi.org/organizations/,200,Organizations · PyPI,The Python Package Index (PyPI) is a repository of software for the Python programming language.,,1,124,7,10,44,10,34,15,2026-09-27T15:31:13.967438+00:00,
+https://pypi.org/stats/,200,Statistics · PyPI,The Python Package Index (PyPI) is a repository of software for the Python programming language.,,1,103,8,6,48,9,39,15,2026-09-27T15:31:13.883638+00:00,
