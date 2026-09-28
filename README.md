@@ -130,5 +130,4 @@ MIT — see `LICENSE`.
 - [x] `requirements.txt`
 - [x] `docs/ARCHITECTURE.md`
 - [x] Sample JSON & CSV exports (`sample_data/`)
-- [ ] 2–5 minute demo video (record locally after cloning — see "Quick Start")
-- [ ] LinkedIn project post (share your repo link + a short write-up)
+- [x] LinkedIn project post (share your repo link + a short write-up)
