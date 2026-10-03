@@ -2,6 +2,7 @@
 
 A scalable, production-quality Python web crawler that downloads webpages, extracts human-readable information, follows internal links up to a configurable depth, and exports structured datasets to JSON, CSV, and SQLite. Built for Task 4 (Week 4) with clean, modular OOP architecture.
 
+
 ## ✨ Features
 
 | Category | Details |
